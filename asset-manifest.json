@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://thevinayysharma.github.io/csb-g6c8zy/static/css/main.0e072903.chunk.css",
+    "main.js": "https://thevinayysharma.github.io/csb-g6c8zy/static/js/main.3e71d0c8.chunk.js",
+    "main.js.map": "https://thevinayysharma.github.io/csb-g6c8zy/static/js/main.3e71d0c8.chunk.js.map",
+    "runtime-main.js": "https://thevinayysharma.github.io/csb-g6c8zy/static/js/runtime-main.bb880864.js",
+    "runtime-main.js.map": "https://thevinayysharma.github.io/csb-g6c8zy/static/js/runtime-main.bb880864.js.map",
+    "static/js/2.3b4ec6f2.chunk.js": "https://thevinayysharma.github.io/csb-g6c8zy/static/js/2.3b4ec6f2.chunk.js",
+    "static/js/2.3b4ec6f2.chunk.js.map": "https://thevinayysharma.github.io/csb-g6c8zy/static/js/2.3b4ec6f2.chunk.js.map",
+    "index.html": "https://thevinayysharma.github.io/csb-g6c8zy/index.html",
+    "static/css/main.0e072903.chunk.css.map": "https://thevinayysharma.github.io/csb-g6c8zy/static/css/main.0e072903.chunk.css.map",
+    "static/js/2.3b4ec6f2.chunk.js.LICENSE.txt": "https://thevinayysharma.github.io/csb-g6c8zy/static/js/2.3b4ec6f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb880864.js",
+    "static/js/2.3b4ec6f2.chunk.js",
+    "static/css/main.0e072903.chunk.css",
+    "static/js/main.3e71d0c8.chunk.js"
+  ]
+}
